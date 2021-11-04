@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Engine Repair",
+        "cost": 120,
+        "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have",
+        "img": "https://i.ibb.co/ZdLxn8w/service-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Engine Diagnosis",
+        "cost": 85,
+        "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have.",
+        "img": "https://i.ibb.co/XztzthX/service-2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Treansmission Checking",
+        "cost": 99,
+        "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have",
+        "img": "https://i.ibb.co/hVwgwML/service-3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Car Circuit Fix",
+        "cost": 110,
+        "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have",
+        "img": "https://i.ibb.co/vwdw12M/service-4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Batteries Changing",
+        "cost": 220,
+        "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have",
+        "img": "https://i.ibb.co/mDBkTzC/service-5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Tires Replacement",
+        "cost": 990,
+        "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have",
+        "img": "https://i.ibb.co/2FQ3bKG/service-6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Brakes Maintanance",
+        "cost": 160,
+        "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have",
+        "img": "https://i.ibb.co/nQYD7Bq/service-7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Engine Oil Refil",
+        "cost": 190,
+        "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have",
+        "img": "https://i.ibb.co/KxfypLq/service-8.jpg"
+    }
+]
